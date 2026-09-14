@@ -1,3 +1,4 @@
+![](https://github.com/Ajay217071/Spotify-Data-Analysis-using-SQL/blob/main/sptfy2.png)
 # Spotify SQL Analysis 🎵
 
 ## 📌 Project Overview
